@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Full Postman Course"
+    },
+    {
+      "title": "JAva",
+      "description": "Full JAva Course",
+      "id": 2
+    },
+    {
+      "title": "Sypress",
+      "description": "Full Sypress Course",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "OOP",
+      "description": "Full OOP Course"
+    },
+    {
+      "id": 5,
+      "title": "HTML",
+      "description": "Full HTML Course"
+    },
+    {
+      "id": 6,
+      "title": "ISTQB",
+      "description": "Full ISTQB Course"
+    },
+    {
+      "id": 7,
+      "title": "DataBase",
+      "description": "Full DataBase Course"
+    },
+    {
+      "id": 8,
+      "title": "Python",
+      "description": "Full Python Course"
+    },
+    {
+      "title": "C#",
+      "description": "Full C# Course",
+      "id": 9
+    },
+    {
+      "title": "C#",
+      "description": "Full C# Course",
+      "id": 10
+    },
+    {
+      "title": "C#",
+      "description": "Full C# Course",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "email": "Islam_Abu-Khadija@mail.com",
+      "password": "$2a$10$cAtFcz2hnEcLv4ryqi4/H.pp6OfND22DBwx5FS68cLksN6Al2b8zW",
+      "id": 1
+    },
+    {
+      "email": "Islam_ITI@mail.com",
+      "password": "$2a$10$LMrHNfKOzTdzAe4wO1xtV.T2NcCFxJ9J1AFs1Vrq6Itjrn13Al1cu",
+      "id": 2
+    },
+    {
+      "email": "Islam_abukhadijaa@mail.com",
+      "password": "$2a$10$NzHqJ0OtEE8r9AsIIC7VOO2O3pFvX0.weXm0Gl8iEsGhxQMQIx6NC",
+      "id": 3
+    }
+  ]
+}
